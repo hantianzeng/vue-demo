@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/.vue-templates/webpack/template/build/webpack.base.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/goods/goodsinfo.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/photo/photoinfo.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/photo/photolist.vue" charset="UTF-8" />
+  </component>
+</project>
